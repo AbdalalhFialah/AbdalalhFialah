@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Abdallah Fialah.
-- 💻 I'm currentlyIn Last Semester in Birzeit University, I'm an Electrical Engineering with Minor Computer Science student at [Birzeit University]       (https://www.birzeit.edu/ar)
-
+- 💻 I'm currentlyIn Last Semester in Birzeit University, I'm an Electrical Engineering with Minor Computer Science student at [Birzeit University](https://www.birzeit.edu/ar)
 - 📫 You can to reach me in **fialahabdalalh@gmail.com**
 
 
