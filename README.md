@@ -26,3 +26,14 @@ Here are some ideas to get you started:
 
 <br />
 
+<h2 align="center">Quick Overview 📈</h2>
+  
+  <p align = "center">
+ 
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ameereleyan&count_private=true&theme=dracula&hide_border=true" alt = "Abdalalh Fialah Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ameereleyan&theme=dracula&hide_border=true" alt = "Abdalalh Fialah Rating" width = 400 >
+
+</p>
